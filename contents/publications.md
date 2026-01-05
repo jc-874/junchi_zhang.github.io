@@ -7,6 +7,12 @@
 
 
 
+#### Conference Proceedings
+
+1. **Linear Turán Number of $P_5$ in 3-graphs.**
+   Chaoliang Tang, Hehui Wu, and **Junchi Zhang**.
+   Eurocomb’25 (to appear). 2025.
+
 #### Preprints
 
 1. **PhaseWin Search Framework Enable Efficient Object-Level Interpretation.**
@@ -14,8 +20,4 @@
    *Under review*, 2025. 
    [[Link]](https://arxiv.org/abs/2511.10914)
 
-#### Working Papers
 
-1. **Linear Turán Number of $P_5$ in 3-graphs.**
-   Chaoliang Tang, Hehui Wu, and **Junchi Zhang**.
-   in preparation, 2025.
